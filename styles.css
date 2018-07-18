@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1920px){
+
 
 .parallax { 
     /* The image used */
@@ -106,7 +106,7 @@ hr{
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2)
 }
-}
+/* }
 
 .parallax { 
     /* The image used */
@@ -217,4 +217,4 @@ hr{
 	border-top: 1px solid #f8f8f8;
 	border-bottom: 1px solid rgba(0,0,0,0.2)
 }
-
+ */

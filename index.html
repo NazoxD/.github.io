@@ -11,25 +11,6 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 	<link rel="shortcut icon" href="https://i.imgur.com/SX9z84C.png" type="image/x-icon" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script>
-		$(document).ready(function(){
-  		$("a").on('click', function(event) {
-
-    	if (this.hash !== "") {
-      	event.preventDefault();
-
-      	var hash = this.hash;
-
-      	$('html, body').animate({
-        	scrollTop: $(hash).offset().top
-      	}, 850, function(){
-   
-        window.location.hash = hash;
-      });
-    } 
-  });
-});
-</script>
 
 </head>
 <body>
@@ -147,7 +128,7 @@
 
 
 
-
+<script text="text/javascript" src="home.js"></script>
 <script text="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script text="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>

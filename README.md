@@ -1,4 +1,9 @@
 # http://nazoxd.github.io
-Disclaimer: Code has been written myself unless stated
 
--Smooth scrolling, fading navbar and text has been borrowed to test
+This is a personal website/portfolio that is a project that I am constantly trying to change and improve on whenever I have the time to do so.
+
+The languages I have used so far are 
+- HTML5
+- CSS
+- Javascript
+
